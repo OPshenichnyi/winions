@@ -1,0 +1,23 @@
+.ContainerHerro{
+    text-align: center;
+    padding: 0px 80px 0px 80px;
+    margin-bottom: 120px;
+}
+
+.Title{
+    margin: auto;
+    max-width: 82%;
+    font-size: 15px;
+    color:#E0890B;
+    -webkit-text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.5);
+    -moz-text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, 0.5);
+}
+
+.DiscriptionTitle{
+    color: white;
+    margin: auto;
+    max-width: 90%;
+    margin-bottom: 35px;
+}
+

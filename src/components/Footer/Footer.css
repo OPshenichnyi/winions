@@ -1,0 +1,14 @@
+.FooterContainer {
+    display: flex;
+    padding: 35px 80px 15px 80px;
+    justify-content: space-between;
+    background-color: black;
+}
+.LogoFooter{
+    color: white;
+}
+
+.btnFooter{
+    background-color: black;
+    color: white;
+}

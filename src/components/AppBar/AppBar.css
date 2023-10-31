@@ -1,0 +1,15 @@
+.NavContainer{
+    display: flex;
+    padding: 35px 80px 15px 80px;
+    justify-content: space-between;
+}
+
+.BtnLogined{
+    margin-left: 15px;
+    
+}
+
+.Logo{
+    font-weight: 500;
+    font-size: 22px;
+}
